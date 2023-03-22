@@ -1,0 +1,25 @@
+# IDEs
+Icon\r\r
+.DS_Store
+.vscode/
+
+# Designated local
+__local__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Logs
+logs/
+
+# Python
+__pycache__
+
+# Node
+node_modules/
